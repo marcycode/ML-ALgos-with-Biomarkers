@@ -1,0 +1,198 @@
+image_filename,std_dev,Patient_ID,Age,Gender,Histology,Stage,PDL1 status,Tumor mutational burden,Genetic mutations,Performance status ECOG
+image_1.png,0.2037427582012669,141eb7ac,78,M,Squamous Cell Carcinoma,IIIA,Positive,7,KRAS,0
+image_2.png,0.2480496288740958,48fa3635,68,F,Large Cell Carcinoma,IV,Positive,8,STK11,2
+image_3.png,0.1954612757087301,be75e771,54,F,Large Cell Carcinoma,IIIA,Positive,2,EGFR,1
+image_4.png,0.1801929332957086,4479a716,47,M,Squamous Cell Carcinoma,IV,Positive,8,RET,0
+image_5.png,0.1998883800225384,5916bd97,60,M,Squamous Cell Carcinoma,IIIA,Positive,3,BRAF,0
+image_6.png,0.2884059693746263,e2404200,78,F,Squamous Cell Carcinoma,IV,Negative,7,BRAF,1
+image_7.png,0.2404310881101981,de39a450,58,M,Adenocarcinoma,IIIA,Positive,3,MET,0
+image_8.png,0.2229379018434219,844ce092,62,F,Adenocarcinoma,IIIB,Negative,7,RET,3
+image_9.png,0.2240272076408525,511d0e55,50,F,Adenocarcinoma,IIIA,Negative,2,MET,1
+image_10.png,0.2241624282950457,6d8668cb,50,M,Large Cell Carcinoma,IIIA,Positive,6,RET,1
+image_11.png,0.2219265113227531,c48824a9,63,M,Squamous Cell Carcinoma,IIIB,Positive,3,EGFR,1
+image_12.png,0.2249912012027503,e7c569cc,75,F,Large Cell Carcinoma,IIIA,Positive,3,STK11,3
+image_13.png,0.2213622459578631,c2e3dd55,79,F,Adenocarcinoma,IIIB,Positive,9,ALK,1
+image_14.png,0.2297318124530623,1d8eb6ab,63,M,Squamous Cell Carcinoma,IIIA,Negative,7,TP53,3
+image_15.png,0.2488913364576628,da1ac0c4,42,F,Large Cell Carcinoma,IV,Positive,5,RET,1
+image_16.png,0.2737754578133332,e14debfb,61,M,Squamous Cell Carcinoma,IV,Positive,7,STK11,2
+image_17.png,0.2681900462313055,a018e1de,41,F,Large Cell Carcinoma,IIIA,Positive,9,ALK,0
+image_18.png,0.2496306230378433,ecb3510f,63,M,Squamous Cell Carcinoma,IIIA,Positive,1,ROS1,2
+image_19.png,0.2992305542094267,3ec1d2dd,69,M,Adenocarcinoma,IIIA,Positive,7,EGFR,0
+image_20.png,0.2973638154579547,b6e02133,77,M,Adenocarcinoma,IV,Positive,6,MET,3
+image_21.png,0.228197757908027,89caa56e,41,F,Squamous Cell Carcinoma,IIIA,Negative,9,MET,2
+image_22.png,0.2157854016206672,16402843,60,F,Large Cell Carcinoma,IV,Negative,1,BRAF,1
+image_23.png,0.2234752530648313,16adb6ba,72,M,Adenocarcinoma,IIIB,Positive,4,ALK,0
+image_24.png,0.2254751942190155,1d54e5ab,51,F,Adenocarcinoma,IV,Positive,9,ROS1,0
+image_25.png,0.2706268432451598,15dfe19e,61,M,Adenocarcinoma,IV,Positive,4,STK11,2
+image_26.png,0.2811158599309897,9fc0e3fa,64,M,Squamous Cell Carcinoma,IIIB,Negative,3,EGFR,3
+image_27.png,0.2690005301503599,e1683862,66,F,Squamous Cell Carcinoma,IV,Positive,9,ALK,2
+image_28.png,0.1985986674666357,674d8820,67,F,Large Cell Carcinoma,IIIA,Negative,2,ROS1,3
+image_29.png,0.2013769601947253,885c9f9c,55,M,Large Cell Carcinoma,IIIA,Positive,4,TP53,3
+image_30.png,0.1916608910991691,db794e0b,54,F,Large Cell Carcinoma,IV,Positive,6,RET,0
+image_31.png,0.1958376457029805,e71c12b1,42,F,Squamous Cell Carcinoma,IIIA,Positive,2,MET,2
+image_32.png,0.1947292539432559,08a4732a,76,M,Squamous Cell Carcinoma,IV,Positive,8,STK11,2
+image_33.png,0.214814952792161,d33e23d2,46,M,Large Cell Carcinoma,IIIA,Negative,8,MET,3
+image_34.png,0.205776415792101,08826a6a,60,F,Large Cell Carcinoma,IIIA,Negative,1,STK11,2
+image_35.png,0.2022963671126844,2a71af94,48,M,Squamous Cell Carcinoma,IV,Positive,3,BRAF,1
+image_36.png,0.2229489879151981,0ff3cfda,78,M,Large Cell Carcinoma,IIIA,Positive,9,STK11,1
+image_37.png,0.2146791410648627,44792a30,57,F,Adenocarcinoma,IV,Negative,5,MET,2
+image_38.png,0.1794704579021809,3294aef2,43,M,Squamous Cell Carcinoma,IIIA,Negative,6,STK11,2
+image_39.png,0.2049424272205648,eff86a3c,64,M,Large Cell Carcinoma,IIIA,Negative,4,TP53,3
+image_40.png,0.2038107426722208,89e174c0,53,F,Squamous Cell Carcinoma,IIIB,Negative,2,BRAF,1
+image_41.png,0.2281124946310208,87b37702,48,F,Adenocarcinoma,IIIB,Positive,8,STK11,1
+image_42.png,0.2124859551691533,d57fb794,65,M,Squamous Cell Carcinoma,IV,Negative,6,ALK,0
+image_43.png,0.2134368499088658,40b9ff45,41,M,Squamous Cell Carcinoma,IIIB,Positive,5,KRAS,3
+image_44.png,0.208790177650979,8193b9e0,59,F,Squamous Cell Carcinoma,IV,Negative,9,ROS1,0
+image_45.png,0.2056399531033935,536858eb,67,F,Squamous Cell Carcinoma,IIIB,Negative,1,KRAS,1
+image_46.png,0.2096526419173181,38d462dc,46,F,Adenocarcinoma,IIIA,Negative,5,KRAS,3
+image_47.png,0.2075115804340151,078c0e48,47,F,Squamous Cell Carcinoma,IV,Negative,6,EGFR,2
+image_48.png,0.2202467563325283,f0ca9662,74,M,Squamous Cell Carcinoma,IV,Negative,5,TP53,3
+image_49.png,0.2204993493335045,53ce3e0c,53,F,Large Cell Carcinoma,IIIA,Positive,6,ALK,2
+image_50.png,0.225557775695945,a9492947,56,F,Squamous Cell Carcinoma,IV,Positive,6,RET,2
+image_51.png,0.2044063170038738,41fb1487,75,M,Large Cell Carcinoma,IV,Negative,7,STK11,3
+image_52.png,0.2086227805141445,35a67daa,79,F,Adenocarcinoma,IIIB,Negative,4,ROS1,2
+image_53.png,0.2086071611076238,24e7a970,43,M,Adenocarcinoma,IV,Positive,8,BRAF,0
+image_54.png,0.2231735945348789,53e53bd9,41,F,Adenocarcinoma,IIIA,Negative,7,ALK,1
+image_55.png,0.2200509732358473,79e5f0ba,45,F,Adenocarcinoma,IIIB,Negative,9,MET,2
+image_56.png,0.2096888126104265,0b2a1eb2,43,F,Large Cell Carcinoma,IIIB,Positive,7,RET,0
+image_57.png,0.2151133595362394,ae29b508,68,M,Squamous Cell Carcinoma,IIIA,Negative,3,EGFR,2
+image_58.png,0.2144263735570037,9d220239,57,M,Adenocarcinoma,IIIA,Negative,3,EGFR,1
+image_59.png,0.1983210910467098,356c138e,65,F,Squamous Cell Carcinoma,IIIB,Positive,8,ALK,0
+image_60.png,0.2138807950076136,ae39a6d9,73,M,Large Cell Carcinoma,IV,Positive,5,KRAS,1
+image_61.png,0.2215261007964635,d250d144,49,M,Large Cell Carcinoma,IIIB,Positive,4,MET,1
+image_62.png,0.2308869603470001,1d23b5f7,75,M,Large Cell Carcinoma,IIIA,Negative,8,EGFR,0
+image_63.png,0.2333382408326384,cc393966,53,M,Adenocarcinoma,IIIB,Positive,6,ROS1,0
+image_64.png,0.2207748214875488,e6fd4720,70,M,Squamous Cell Carcinoma,IIIA,Positive,2,EGFR,0
+image_65.png,0.2335730763629345,aedadcc1,54,M,Squamous Cell Carcinoma,IIIB,Positive,4,BRAF,3
+image_66.png,0.230317595022678,f44bbbe2,47,F,Squamous Cell Carcinoma,IV,Positive,4,STK11,0
+image_67.png,0.2329475172492267,ee6e8890,53,F,Large Cell Carcinoma,IIIB,Positive,6,EGFR,0
+image_68.png,0.2219047110494198,4c2e9a6f,62,M,Adenocarcinoma,IIIB,Positive,6,BRAF,0
+image_69.png,0.2230096561941618,fc64f928,79,F,Large Cell Carcinoma,IIIA,Negative,1,ALK,0
+image_70.png,0.2232698054354986,e4712461,60,F,Large Cell Carcinoma,IIIA,Negative,8,ALK,2
+image_71.png,0.2082895912142609,70a40546,55,F,Squamous Cell Carcinoma,IIIA,Positive,6,RET,3
+image_72.png,0.2066595425910554,5152cff8,57,F,Large Cell Carcinoma,IIIB,Positive,3,EGFR,1
+image_73.png,0.2063030994587889,e77d60f1,63,M,Squamous Cell Carcinoma,IV,Positive,9,ROS1,0
+image_74.png,0.2002477253792342,cabdcec5,65,F,Adenocarcinoma,IIIA,Negative,2,EGFR,2
+image_75.png,0.1954617273303134,0227a957,64,F,Squamous Cell Carcinoma,IIIA,Negative,8,ROS1,2
+image_76.png,0.2120499913669749,8d9d8977,68,M,Adenocarcinoma,IIIB,Negative,3,TP53,2
+image_77.png,0.2182995823903898,eb9f24ac,54,M,Squamous Cell Carcinoma,IIIA,Negative,5,RET,1
+image_78.png,0.2254588623634802,6125de27,40,F,Large Cell Carcinoma,IV,Negative,6,TP53,0
+image_79.png,0.227219738990643,486f5649,64,F,Large Cell Carcinoma,IV,Negative,6,EGFR,3
+image_80.png,0.2283547331466361,3b54f868,46,F,Adenocarcinoma,IIIA,Negative,4,RET,3
+image_81.png,0.2303806916553012,f05fff68,48,F,Adenocarcinoma,IIIA,Negative,3,TP53,2
+image_82.png,0.2301663058702661,56b5b0cb,63,F,Adenocarcinoma,IIIB,Negative,4,KRAS,1
+image_83.png,0.2305184529126383,9b898aaa,40,F,Squamous Cell Carcinoma,IV,Positive,1,EGFR,1
+image_84.png,0.2329118441032082,8bd5c64c,47,M,Squamous Cell Carcinoma,IV,Positive,4,TP53,1
+image_85.png,0.217432571964354,f91516ee,63,F,Adenocarcinoma,IIIA,Positive,1,KRAS,3
+image_86.png,0.222600487241849,4aa3fdc4,50,F,Large Cell Carcinoma,IIIB,Positive,1,KRAS,2
+image_87.png,0.2327507716039251,c737b0e6,56,M,Squamous Cell Carcinoma,IV,Negative,6,ALK,0
+image_88.png,0.3395379339324588,4b96d6fe,47,M,Squamous Cell Carcinoma,IV,Negative,5,EGFR,3
+image_89.png,0.338270471242436,cbba8121,74,M,Squamous Cell Carcinoma,IIIB,Positive,4,KRAS,2
+image_90.png,0.2176012705901554,3b1fbafc,74,M,Adenocarcinoma,IIIB,Negative,3,ALK,2
+image_91.png,0.2169379600103109,ff767a19,72,F,Adenocarcinoma,IV,Positive,1,TP53,0
+image_92.png,0.1848591392156886,d0e5b808,44,F,Adenocarcinoma,IV,Negative,6,BRAF,0
+image_93.png,0.2280169607291822,22c9370b,78,F,Adenocarcinoma,IIIB,Positive,2,EGFR,0
+image_94.png,0.2234182905649262,12e94afc,67,F,Adenocarcinoma,IV,Negative,8,RET,1
+image_95.png,0.2075038596417951,ae9d97bc,46,F,Large Cell Carcinoma,IIIA,Negative,5,ROS1,0
+image_96.png,0.2041152424313958,c3ecbe6f,48,F,Large Cell Carcinoma,IIIA,Positive,7,ROS1,2
+image_97.png,0.1992719740129075,0be8e066,47,M,Adenocarcinoma,IIIB,Negative,2,TP53,0
+image_98.png,0.2185891354336122,69f7898c,51,F,Squamous Cell Carcinoma,IIIB,Positive,8,TP53,2
+image_99.png,0.2186227063258541,daadad24,73,M,Adenocarcinoma,IIIB,Positive,2,KRAS,3
+image_100.png,0.2961605277089104,df0e9b57,72,M,Large Cell Carcinoma,IIIA,Positive,4,EGFR,1
+image_101.png,0.2240824814374483,7f6f76e3,62,F,Large Cell Carcinoma,IV,Positive,1,ROS1,3
+image_102.png,0.2240283546677194,15f2ce18,63,M,Squamous Cell Carcinoma,IIIA,Negative,5,ROS1,3
+image_103.png,0.2187550342694476,279b87c7,76,F,Large Cell Carcinoma,IV,Negative,9,KRAS,2
+image_104.png,0.2265298578095885,152f7ea0,74,M,Adenocarcinoma,IIIA,Negative,1,ROS1,3
+image_105.png,0.3340706169430866,6af148e5,79,F,Squamous Cell Carcinoma,IV,Positive,9,RET,2
+image_106.png,0.3341070373590268,8ba2c24e,61,M,Adenocarcinoma,IIIA,Negative,8,EGFR,0
+image_107.png,0.2029363112760123,fd4325ba,66,F,Adenocarcinoma,IIIB,Positive,6,STK11,0
+image_108.png,0.1989982978825641,b3dc9cc1,74,F,Squamous Cell Carcinoma,IIIA,Negative,7,ROS1,2
+image_109.png,0.1983664016402681,c362597a,40,F,Adenocarcinoma,IV,Negative,3,TP53,0
+image_110.png,0.2228909390868087,ac2d4809,74,F,Large Cell Carcinoma,IIIA,Negative,1,RET,1
+image_111.png,0.2202145560517449,32f444f8,76,F,Adenocarcinoma,IIIA,Positive,5,ROS1,3
+image_112.png,0.2278011757769779,42a71281,53,M,Squamous Cell Carcinoma,IIIA,Negative,2,RET,1
+image_113.png,0.2295030534831446,322e3b69,42,M,Squamous Cell Carcinoma,IIIB,Negative,5,ALK,3
+image_114.png,0.2192162046573076,4e1a73fb,40,M,Squamous Cell Carcinoma,IIIA,Positive,8,STK11,0
+image_115.png,0.2136219751115592,4e729468,44,F,Adenocarcinoma,IIIB,Negative,9,MET,1
+image_116.png,0.2136231544130623,b848bb85,65,M,Squamous Cell Carcinoma,IIIB,Positive,2,TP53,0
+image_117.png,0.3345656314573021,582a1e59,53,F,Squamous Cell Carcinoma,IIIA,Negative,3,TP53,3
+image_118.png,0.3293547906082933,7d3ac8dd,78,F,Adenocarcinoma,IIIA,Positive,3,EGFR,2
+image_119.png,0.3285028692570528,22536d17,66,M,Large Cell Carcinoma,IIIA,Positive,1,RET,2
+image_120.png,0.2134690612178299,91612f6d,48,M,Adenocarcinoma,IV,Negative,8,KRAS,1
+image_121.png,0.2134316392331935,093e5078,54,F,Squamous Cell Carcinoma,IIIA,Positive,6,TP53,0
+image_122.png,0.2058768950715929,339d686d,54,M,Squamous Cell Carcinoma,IIIB,Positive,8,RET,0
+image_123.png,0.3328794953423153,435b5bf4,65,F,Adenocarcinoma,IIIA,Positive,9,RET,1
+image_124.png,0.3225721251151026,e2b98ca0,52,F,Large Cell Carcinoma,IV,Positive,5,BRAF,2
+image_125.png,0.3149593323430185,508171fb,71,F,Squamous Cell Carcinoma,IIIA,Positive,3,BRAF,3
+image_126.png,0.2063842173119547,373e66c9,78,F,Squamous Cell Carcinoma,IV,Positive,5,MET,1
+image_127.png,0.2129478255427099,6303d798,71,F,Squamous Cell Carcinoma,IV,Negative,5,ALK,3
+image_128.png,0.2188853830554688,5120932e,43,M,Adenocarcinoma,IIIA,Positive,5,MET,2
+image_129.png,0.2408509752644738,a4bb435b,69,M,Squamous Cell Carcinoma,IIIB,Positive,3,ROS1,0
+image_130.png,0.2336505815570522,dff0fb0c,76,F,Large Cell Carcinoma,IV,Negative,4,KRAS,2
+image_131.png,0.2369499757308456,16e07ed4,62,F,Squamous Cell Carcinoma,IIIA,Negative,9,ROS1,1
+image_132.png,0.230552466788362,bdb8c051,78,M,Squamous Cell Carcinoma,IIIA,Negative,9,ROS1,0
+image_133.png,0.2349990360690576,5e1034e7,54,M,Large Cell Carcinoma,IIIB,Negative,2,EGFR,1
+image_134.png,0.223765953818705,24842692,68,F,Squamous Cell Carcinoma,IV,Negative,8,ROS1,1
+image_135.png,0.2328290960688085,25e7816b,75,M,Adenocarcinoma,IV,Negative,8,MET,2
+image_136.png,0.2150921533593208,7982a09d,52,F,Adenocarcinoma,IIIA,Negative,7,TP53,1
+image_137.png,0.1953993489206731,d11ed2b5,71,M,Adenocarcinoma,IIIA,Positive,8,TP53,2
+image_138.png,0.2166333466635017,4c8ca420,46,F,Large Cell Carcinoma,IIIB,Positive,3,BRAF,0
+image_139.png,0.216422814776997,fc835fd8,61,M,Squamous Cell Carcinoma,IIIB,Negative,6,KRAS,2
+image_140.png,0.2033663915970039,dcbc0636,67,F,Adenocarcinoma,IV,Positive,1,KRAS,0
+image_141.png,0.2208738674825828,4f12ec21,41,M,Large Cell Carcinoma,IV,Positive,7,EGFR,2
+image_142.png,0.215461891579353,5bd1918c,45,M,Squamous Cell Carcinoma,IIIA,Positive,1,MET,3
+image_143.png,0.1956138906392339,fc18a34d,67,F,Large Cell Carcinoma,IV,Negative,9,BRAF,3
+image_144.png,0.2148047390988922,ddd3f5b1,67,M,Adenocarcinoma,IIIB,Negative,1,KRAS,1
+image_145.png,0.214790313888462,baf76122,59,F,Adenocarcinoma,IIIB,Positive,1,TP53,2
+image_146.png,0.2190353284985285,775d71aa,69,M,Adenocarcinoma,IIIA,Negative,7,ROS1,2
+image_147.png,0.2240042272313764,2b0a2d52,50,F,Large Cell Carcinoma,IIIB,Positive,2,ROS1,0
+image_148.png,0.2256907407904094,6576e3f9,67,M,Large Cell Carcinoma,IIIB,Positive,5,BRAF,1
+image_149.png,0.2305271362549145,e5e9d3a4,64,F,Adenocarcinoma,IIIB,Positive,8,MET,2
+image_150.png,0.2236622542459597,4013bda4,78,M,Large Cell Carcinoma,IIIB,Positive,8,MET,1
+image_151.png,0.2210798512540654,ab65c260,72,F,Adenocarcinoma,IIIA,Negative,3,ALK,3
+image_152.png,0.2222398431945586,49d5da5f,40,M,Adenocarcinoma,IIIA,Negative,7,STK11,2
+image_153.png,0.2231863940118865,5989f8aa,66,F,Squamous Cell Carcinoma,IV,Negative,3,KRAS,2
+image_154.png,0.2224357539780815,88259080,52,F,Large Cell Carcinoma,IIIB,Positive,6,MET,1
+image_155.png,0.2207109740527805,4100a4ea,42,F,Adenocarcinoma,IV,Negative,6,TP53,2
+image_156.png,0.2257951099740338,f243d34e,78,M,Adenocarcinoma,IIIA,Positive,3,BRAF,1
+image_157.png,0.2883783892730822,c1994671,45,F,Large Cell Carcinoma,IIIA,Negative,7,ALK,2
+image_158.png,0.2186000678917402,328fe748,47,M,Squamous Cell Carcinoma,IIIA,Positive,3,RET,0
+image_159.png,0.2242325103348102,c1301669,66,F,Squamous Cell Carcinoma,IIIA,Positive,8,EGFR,1
+image_160.png,0.2342353588960434,e1ac196f,48,M,Adenocarcinoma,IIIA,Positive,4,RET,2
+image_161.png,0.2329447856716063,3db31ce6,76,F,Large Cell Carcinoma,IIIA,Negative,1,ROS1,3
+image_162.png,0.2191006083415322,445fe1f2,72,M,Squamous Cell Carcinoma,IIIA,Negative,4,EGFR,2
+image_163.png,0.2028791492631471,c2612640,63,M,Large Cell Carcinoma,IIIB,Negative,7,KRAS,3
+image_164.png,0.2383314996901633,cb06a208,54,F,Large Cell Carcinoma,IV,Negative,4,TP53,3
+image_165.png,0.235191904857046,afc31503,71,M,Adenocarcinoma,IIIA,Positive,6,EGFR,0
+image_166.png,0.1943366149506378,b3b6c610,71,M,Squamous Cell Carcinoma,IIIB,Negative,9,STK11,1
+image_167.png,0.2069159842206696,1c0ed984,63,F,Adenocarcinoma,IIIB,Negative,1,RET,2
+image_168.png,0.2081727600910047,47dedc2e,51,M,Squamous Cell Carcinoma,IV,Positive,5,KRAS,0
+image_169.png,0.2094142592616765,fc8425bb,78,M,Squamous Cell Carcinoma,IIIA,Positive,7,STK11,2
+image_170.png,0.2100019272289422,b8ab6d01,41,M,Squamous Cell Carcinoma,IV,Positive,1,ROS1,3
+image_171.png,0.2213971570799399,f6fd378d,42,F,Squamous Cell Carcinoma,IIIA,Negative,4,STK11,1
+image_172.png,0.232287789922841,f1b535e9,76,M,Squamous Cell Carcinoma,IIIB,Positive,6,ALK,2
+image_173.png,0.1922204700841155,4a736149,56,F,Large Cell Carcinoma,IIIB,Positive,2,ALK,2
+image_174.png,0.2266338108710932,a6d5dcd1,41,M,Adenocarcinoma,IIIB,Positive,5,BRAF,3
+image_175.png,0.2163413545831435,9c61579f,41,M,Large Cell Carcinoma,IIIB,Negative,1,KRAS,2
+image_176.png,0.2268863085778395,18c56c0a,67,M,Squamous Cell Carcinoma,IV,Positive,6,ROS1,2
+image_177.png,0.2099327745739513,9c492b1c,62,F,Adenocarcinoma,IIIA,Negative,6,MET,3
+image_178.png,0.2314007599828665,c240e4a7,76,M,Squamous Cell Carcinoma,IIIA,Negative,4,ALK,0
+image_179.png,0.2122721516910282,4b578746,71,M,Adenocarcinoma,IV,Positive,8,KRAS,3
+image_180.png,0.2322416944401501,3b5adf65,72,F,Large Cell Carcinoma,IIIA,Positive,4,MET,0
+image_181.png,0.2249354253396238,136739c6,40,M,Adenocarcinoma,IIIB,Negative,8,BRAF,1
+image_182.png,0.2224316368961953,af44a336,58,F,Adenocarcinoma,IIIA,Positive,8,STK11,0
+image_183.png,0.2287240942183644,2c139b5e,41,F,Adenocarcinoma,IIIB,Positive,5,ALK,0
+image_184.png,0.242005555723805,f154f210,65,M,Adenocarcinoma,IV,Negative,4,KRAS,1
+image_185.png,0.2157249062421206,46bb892c,71,F,Adenocarcinoma,IIIA,Negative,2,EGFR,0
+image_186.png,0.2265910611760112,09cf3b79,45,M,Squamous Cell Carcinoma,IV,Positive,3,MET,3
+image_187.png,0.1944460712129772,6c86dc1e,71,F,Adenocarcinoma,IIIA,Negative,3,STK11,0
+image_188.png,0.1982515701347481,b9daf135,43,F,Adenocarcinoma,IIIB,Positive,4,ALK,1
+image_189.png,0.2269626994000609,534d503e,50,M,Large Cell Carcinoma,IV,Positive,4,ROS1,3
+image_190.png,0.2239004795753174,5259516f,56,F,Adenocarcinoma,IIIA,Positive,5,MET,1
+image_191.png,0.2261193806376367,2154d55f,77,F,Large Cell Carcinoma,IIIB,Negative,4,ALK,1
+image_192.png,0.222114182187306,49c181d9,63,F,Squamous Cell Carcinoma,IV,Positive,8,MET,2
+image_193.png,0.2374627080037591,c207df10,44,F,Adenocarcinoma,IV,Positive,6,STK11,2
+image_194.png,0.2115932078568281,d6a11e85,73,F,Large Cell Carcinoma,IIIA,Positive,6,ALK,1
+image_195.png,0.231695742027703,b894169b,45,M,Large Cell Carcinoma,IIIA,Negative,8,RET,1
+image_196.png,0.235270449070287,6d991628,61,F,Squamous Cell Carcinoma,IIIA,Negative,7,KRAS,1
+image_197.png,0.2178024685070831,b043d6fd,50,M,Adenocarcinoma,IIIB,Negative,8,STK11,2

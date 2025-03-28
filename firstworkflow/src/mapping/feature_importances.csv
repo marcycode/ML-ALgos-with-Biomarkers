@@ -1,0 +1,67 @@
+Feature,Importance
+Age,0.0
+Tumor mutational burden,0.0
+Absolute Neutrophil count,0.0
+Absolute Lymphocyte count,0.0
+N/L Ratio,0.0
+Platelet count,0.0
+Performance status ECOG,0.0
+Time to progression (months)\,0.0
+Gender_F,0.0
+Gender_M,0.0
+Histology_Adenocarcinoma,0.0
+Histology_Large Cell Carcinoma,0.0
+Histology_Squamous Cell Carcinoma,0.0
+PDL1 status_Negative,0.0
+PDL1 status_Positive,0.0
+"Genetic mutations_ALK, BRAF",0.0
+"Genetic mutations_ALK, HER2",0.0
+"Genetic mutations_ALK, KRAS",0.0
+"Genetic mutations_ALK, MET",0.0
+"Genetic mutations_ALK, ROS1",0.0
+"Genetic mutations_ALK, STK11",0.0
+"Genetic mutations_BRAF, ALK",0.0
+"Genetic mutations_BRAF, MET",0.0
+"Genetic mutations_BRAF, RET",0.0
+"Genetic mutations_BRAF, ROS1",0.0
+"Genetic mutations_BRAF, STK11",0.0
+"Genetic mutations_BRAF, TP53",0.0
+Genetic mutations_EGFR,0.0
+"Genetic mutations_EGFR, ALK",0.0
+"Genetic mutations_EGFR, BRAF",0.0
+"Genetic mutations_EGFR, HER2",0.0
+"Genetic mutations_EGFR, KRAS",0.0
+"Genetic mutations_EGFR, MET",0.0
+"Genetic mutations_EGFR, RET",0.0
+"Genetic mutations_EGFR, ROS1",0.0
+"Genetic mutations_EGFR, STK11",0.0
+"Genetic mutations_EGFR, TP53",0.0
+"Genetic mutations_HER2, KRAS",0.0
+"Genetic mutations_KRAS, ALK",0.0
+"Genetic mutations_KRAS, BRAF",0.0
+"Genetic mutations_KRAS, HER2",0.0
+"Genetic mutations_KRAS, MET",0.0
+"Genetic mutations_KRAS, RET",0.0
+"Genetic mutations_KRAS, ROS1",0.0
+"Genetic mutations_KRAS, STK11",0.0
+"Genetic mutations_KRAS, TP53",0.0
+"Genetic mutations_MET, ALK",0.0
+"Genetic mutations_MET, BRAF",0.0
+"Genetic mutations_MET, RET",0.0
+"Genetic mutations_MET, STK11",0.0
+"Genetic mutations_MET, TP53",0.0
+"Genetic mutations_ROS1, BRAF",0.0
+Genetic mutations_TP53,0.0
+"Genetic mutations_TP53, ALK",0.0
+"Genetic mutations_TP53, KRAS",0.0
+"Genetic mutations_TP53, MET",0.0
+"Genetic mutations_TP53, RET",0.0
+"Genetic mutations_TP53, STK11",0.0
+1st line treatment_Atezolizumab + Carboplatin + Etoposide,0.0
+1st line treatment_Carboplatin + Paclitaxel + Bevacizumab,0.0
+1st line treatment_Carboplatin + Paclitaxel + Radiation,0.0
+1st line treatment_Carboplatin + Pemetrexed,0.0
+1st line treatment_Carboplatin + Pemetrexed + Radiation followed by Durvalumab,0.0
+1st line treatment_Cisplatin + Gemcitabine,0.0
+1st line treatment_Nivolumab + Carboplatin + Pemetrexed,0.0
+1st line treatment_Pembrolizumab + Carboplatin + Pemetrexed,0.0

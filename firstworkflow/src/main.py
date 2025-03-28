@@ -1,10 +1,12 @@
+import os
+import pandas as pd
 from data_loader import load_images_from_folder
 from preprocess import normalize, denoise
 from analysis import extract_features, segment_image
-from visualization import display_slice
 
 # Path to the folder containing PNG images
 data_folder = '../data/Testcases/'  # Update this path if needed
+output_csv = "image_std_dev.csv"  # CSV file to store std_dev data
 
 def main():
     # Step 1: Load all PNG images
@@ -15,32 +17,35 @@ def main():
 
     print(f"Loaded {len(images)} PNG images.")
 
-    # Process each image
+    # Store results
+    image_data = []
+
+    # Process each image automatically (no user interaction needed)
     for idx, image in enumerate(images):
         print(f"\nProcessing image {idx + 1}/{len(images)}...")
 
         # Step 2: Normalize the image
         normalized_image = normalize(image)
-        print(f"Image {idx + 1} normalized.")
 
         # Step 3: Denoise the image
         denoised_image = denoise(normalized_image, sigma=1)
-        print(f"Image {idx + 1} denoised.")
 
-        # Step 4: Extract features
+        # Step 4: Extract features (including std_dev)
         features = extract_features(denoised_image)
-        print(f"Features extracted for image {idx + 1}: {features}")
 
-        # Step 5: Segment the image
-        segmented_image = segment_image(denoised_image, threshold=0.5)
-        print(f"Image {idx + 1} segmented.")
+        # Extract std_dev from features dictionary
+        std_dev = features.get("std_dev", None)
 
-        # Step 6: Visualize the results
-        display_slice(normalized_image, title=f"Normalized Image {idx + 1}")
-        display_slice(denoised_image, title=f"Denoised Image {idx + 1}")
-        display_slice(segmented_image, title=f"Segmented Image {idx + 1}")
+        # Store result
+        image_data.append([f"image_{idx + 1}.png", std_dev])  # Save image filename + std_dev
+
+        print(f"Processed image {idx + 1}: std_dev = {std_dev}")
+
+    # Save extracted std_dev values to CSV
+    df = pd.DataFrame(image_data, columns=["image_filename", "std_dev"])
+    df.to_csv(output_csv, index=False)
+
+    print(f"\n✅ All images processed. Saved std_dev values to {output_csv}")
 
 if __name__ == "__main__":
     main()
-
-

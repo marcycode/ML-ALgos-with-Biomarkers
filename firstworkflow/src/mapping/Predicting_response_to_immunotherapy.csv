@@ -1,0 +1,256 @@
+Age,Gender,Histology,Stage,PDL1 status,Tumor mutational burden,Genetic mutations,Absolute Neutrophil count,Absolute Lymphocyte count,N/L Ratio,Platelet count,Performance status ECOG,1st line treatment,Time to progression (months)\
+48,M,Adenocarcinoma,IIIA,Positive,4,"EGFR, KRAS",4.3,1.3,3.31,220,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+63,F,Squamous Cell Carcinoma,IIIB,Negative,1,TP53,3.2,1,3.2,275,2,Carboplatin + Paclitaxel + Radiation,8\
+59,M,Large Cell Carcinoma,IV,Positive,2,"BRAF, MET",4.7,1.5,3.13,290,3,Pembrolizumab + Carboplatin + Pemetrexed,14\
+70,F,Adenocarcinoma,IIIA,Negative,3,"ALK, ROS1",5.1,1.1,4.64,310,2,Carboplatin + Pemetrexed,10\
+55,M,Squamous Cell Carcinoma,IIIB,Positive,5,"KRAS, TP53",4.9,1.8,2.72,200,1,Carboplatin + Paclitaxel + Radiation,9\
+77,F,Large Cell Carcinoma,IV,Negative,6,"MET, RET",3.6,1.2,3,260,3,Nivolumab + Carboplatin + Pemetrexed,18\
+64,M,Adenocarcinoma,IIIA,Positive,2,EGFR,2.8,1,2.8,230,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,13\
+68,F,Squamous Cell Carcinoma,IIIB,Negative,4,"TP53, STK11",6.2,1.6,3.88,250,2,Cisplatin + Gemcitabine,7\
+51,M,Large Cell Carcinoma,IV,Positive,7,"BRAF, ALK",5.5,2,2.75,270,3,Atezolizumab + Carboplatin + Etoposide,16\
+73,F,Adenocarcinoma,IIIB,Negative,3,"HER2, KRAS",3.9,1.2,3.25,240,2,Carboplatin + Pemetrexed,9\
+66,M,Squamous Cell Carcinoma,IIIB,Positive,5,"KRAS, ALK",4.1,1.4,2.93,280,2,Carboplatin + Paclitaxel + Bevacizumab,11\
+59,F,Adenocarcinoma,IIIA,Negative,2,EGFR,3.7,0.9,4.11,225,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,10\
+47,M,Large Cell Carcinoma,IV,Positive,6,"BRAF, ROS1",6.8,1.5,4.53,300,3,Pembrolizumab + Carboplatin + Pemetrexed,12\
+72,F,Squamous Cell Carcinoma,IIIB,Negative,1,TP53,2.9,1,2.9,210,2,Carboplatin + Paclitaxel + Radiation,8\
+60,M,Adenocarcinoma,IIIA,Positive,8,"EGFR, MET",5.3,1.4,3.79,270,1,Carboplatin + Pemetrexed,14\
+69,F,Large Cell Carcinoma,IV,Negative,4,"KRAS, RET",4.4,1.1,4,250,3,Nivolumab + Carboplatin + Pemetrexed,17\
+53,M,Squamous Cell Carcinoma,IIIB,Positive,3,"TP53, ALK",3.3,1.2,2.75,190,2,Carboplatin + Paclitaxel + Radiation,7\
+75,F,Adenocarcinoma,IV,Negative,5,"EGFR, STK11",5.9,1.5,3.93,280,4,Atezolizumab + Carboplatin + Etoposide,15\
+62,M,Large Cell Carcinoma,IIIB,Positive,7,"BRAF, TP53",3.8,1.3,2.92,295,2,Cisplatin + Gemcitabine,9\
+58,F,Adenocarcinoma,IIIA,Negative,6,"ALK, ROS1",4.5,1,4.5,260,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,13\
+49,M,Squamous Cell Carcinoma,IIIB,Positive,9,"KRAS, STK11",6,1.9,3.16,245,2,Carboplatin + Paclitaxel + Radiation,10\
+67,F,Adenocarcinoma,IV,Negative,3,"EGFR, BRAF",3.4,1.2,2.83,215,3,Pembrolizumab + Carboplatin + Pemetrexed,16\
+54,M,Large Cell Carcinoma,IIIB,Positive,2,"MET, ALK",4.9,1.7,2.88,265,2,Carboplatin + Pemetrexed,8\
+72,F,Squamous Cell Carcinoma,IIIB,Negative,1,TP53,2.5,1,2.5,220,3,Carboplatin + Paclitaxel + Radiation,6\
+61,M,Adenocarcinoma,IV,Positive,8,"EGFR, KRAS",5.7,1.6,3.56,280,2,Nivolumab + Carboplatin + Pemetrexed,14\
+74,F,Large Cell Carcinoma,IIIA,Negative,4,"BRAF, RET",4.1,1.3,3.15,275,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+57,M,Squamous Cell Carcinoma,IIIB,Positive,6,"KRAS, TP53",3.6,1.2,3,190,2,Carboplatin + Paclitaxel + Radiation,8\
+65,F,Adenocarcinoma,IIIB,Negative,5,"EGFR, ALK",4.4,1.5,2.93,235,3,Carboplatin + Pemetrexed,10\
+56,M,Large Cell Carcinoma,IV,Positive,10,"BRAF, MET",5.5,2,2.75,275,4,Pembrolizumab + Carboplatin + Pemetrexed,20\
+63,F,Squamous Cell Carcinoma,IIIB,Negative,2,"TP53, ALK",3.3,1,3.3,210,2,Carboplatin + Paclitaxel + Radiation,7\
+46,M,Adenocarcinoma,IIIA,Positive,4,"EGFR, ROS1",4.2,1.1,3.82,250,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,11\
+78,F,Large Cell Carcinoma,IV,Negative,3,"KRAS, BRAF",5,1.3,3.85,290,3,Atezolizumab + Carboplatin + Etoposide,19\
+69,M,Squamous Cell Carcinoma,IIIB,Positive,5,"TP53, STK11",6.3,1.6,3.94,255,2,Carboplatin + Paclitaxel + Bevacizumab,9\
+60,F,Adenocarcinoma,IV,Negative,2,"EGFR, RET",3.8,1.4,2.71,210,3,Carboplatin + Pemetrexed,8\
+52,M,Large Cell Carcinoma,IIIA,Positive,7,"MET, ALK",4.9,1.2,4.08,270,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,13\
+71,F,Adenocarcinoma,IIIB,Negative,5,"EGFR, TP53",5.5,1.7,3.24,290,2,Pembrolizumab + Carboplatin + Pemetrexed,15\
+66,M,Squamous Cell Carcinoma,IV,Positive,6,"KRAS, ALK",4.7,1.3,3.62,285,3,Carboplatin + Paclitaxel + Radiation,11\
+59,F,Adenocarcinoma,IIIB,Negative,3,"EGFR, MET",3.1,1,3.1,240,2,Carboplatin + Pemetrexed,9\
+44,M,Large Cell Carcinoma,IV,Positive,8,"ROS1, BRAF",6.2,2.1,2.95,260,3,Nivolumab + Carboplatin + Pemetrexed,17\
+79,F,Squamous Cell Carcinoma,IIIA,Negative,2,TP53,3.6,1.2,3,220,2,Carboplatin + Paclitaxel + Radiation,8\
+68,M,Adenocarcinoma,IIIB,Positive,4,"EGFR, ALK",4.5,1.3,3.46,250,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+72,F,Squamous Cell Carcinoma,IIIB,Negative,1,"KRAS, TP53",3.8,1,3.8,220,2,Carboplatin + Paclitaxel + Radiation,8\
+58,M,Large Cell Carcinoma,IV,Positive,2,"BRAF, MET",5,1.5,3.33,270,3,Pembrolizumab + Carboplatin + Pemetrexed,15\
+63,F,Adenocarcinoma,IIIA,Negative,3,"EGFR, ALK",4.9,1.2,4.08,250,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+77,M,Squamous Cell Carcinoma,IIIB,Positive,1,"KRAS, ALK",3.8,1.4,2.71,290,2,Carboplatin + Paclitaxel + Bevacizumab,8\
+54,F,Adenocarcinoma,IV,Negative,7,"EGFR, MET",5.6,1.6,3.5,240,3,Nivolumab + Carboplatin + Pemetrexed,14\
+65,M,Large Cell Carcinoma,IIIB,Positive,9,"BRAF, ROS1",4.2,1.4,3,280,1,Carboplatin + Pemetrexed,9\
+48,F,Squamous Cell Carcinoma,IIIA,Negative,5,"TP53, STK11",4.4,1.4,3.14,265,2,Carboplatin + Paclitaxel + Radiation,11\
+74,M,Adenocarcinoma,IV,Positive,6,"EGFR, HER2",4.8,1.3,3.69,255,3,Pembrolizumab + Carboplatin + Pemetrexed,17\
+69,F,Large Cell Carcinoma,IIIA,Negative,4,"KRAS, MET",3.3,1.1,3,240,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,10\
+62,M,Squamous Cell Carcinoma,IIIB,Positive,2,"TP53, ALK",4.7,1.2,3.92,230,2,Carboplatin + Paclitaxel + Radiation,8\
+67,F,Adenocarcinoma,IIIA,Negative,3,"EGFR, RET",4,1.1,3.64,220,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+55,M,Large Cell Carcinoma,IV,Positive,5,"BRAF, MET",3.9,1.3,3,275,3,Atezolizumab + Carboplatin + Etoposide,16\
+73,F,Squamous Cell Carcinoma,IIIB,Negative,1,"KRAS, STK11",2.8,0.9,3.11,210,2,Carboplatin + Paclitaxel + Radiation,6\
+64,M,Adenocarcinoma,IV,Positive,4,"EGFR, KRAS",5.2,1.5,3.47,265,3,Pembrolizumab + Carboplatin + Pemetrexed,15\
+70,F,Large Cell Carcinoma,IIIA,Negative,2,"ALK, MET",4.3,1.3,3.31,250,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,11\
+53,M,Squamous Cell Carcinoma,IIIB,Positive,6,"TP53, ALK",4.6,1.6,2.88,240,2,Carboplatin + Paclitaxel + Radiation,8\
+79,F,Adenocarcinoma,IV,Negative,8,"EGFR, BRAF",5.9,1.7,3.47,300,4,Nivolumab + Carboplatin + Pemetrexed,18\
+66,M,Large Cell Carcinoma,IIIA,Positive,7,"BRAF, RET",3.7,1.2,3.08,260,2,Carboplatin + Pemetrexed,9\
+47,F,Squamous Cell Carcinoma,IIIB,Negative,1,"KRAS, MET",3.3,1,3.3,190,2,Carboplatin + Paclitaxel + Radiation,6\
+58,M,Adenocarcinoma,IIIB,Positive,5,"EGFR, MET",4.1,1.3,3.15,260,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,14\
+77,F,Large Cell Carcinoma,IV,Negative,4,"KRAS, ALK",5.5,1.8,3.06,280,3,Pembrolizumab + Carboplatin + Pemetrexed,17\
+68,M,Squamous Cell Carcinoma,IIIB,Positive,2,"TP53, STK11",3.6,1.2,3,210,2,Carboplatin + Paclitaxel + Radiation,9\
+51,F,Adenocarcinoma,IIIA,Negative,7,"EGFR, RET",4.8,1.5,3.2,230,1,Carboplatin + Pemetrexed,10\
+72,M,Large Cell Carcinoma,IV,Positive,9,"BRAF, MET",6.1,2.2,2.77,270,3,Atezolizumab + Carboplatin + Etoposide,19\
+63,F,Squamous Cell Carcinoma,IIIA,Negative,1,"KRAS, ALK",3.2,1,3.2,220,2,Carboplatin + Paclitaxel + Radiation,7\
+55,M,Adenocarcinoma,IIIB,Positive,3,"EGFR, STK11",4.7,1.2,3.92,265,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,11\
+69,F,Large Cell Carcinoma,IV,Negative,6,"KRAS, RET",3.9,1.3,3,240,3,Nivolumab + Carboplatin + Pemetrexed,15\
+74,M,Squamous Cell Carcinoma,IIIB,Positive,2,"TP53, ALK",3.3,1.1,3,270,2,Carboplatin + Paclitaxel + Bevacizumab,8\
+57,F,Adenocarcinoma,IV,Negative,8,"EGFR, BRAF",5.2,1.4,3.71,280,3,Pembrolizumab + Carboplatin + Pemetrexed,16\
+62,M,Large Cell Carcinoma,IIIA,Positive,4,"BRAF, ALK",4.5,1.6,2.81,230,1,Carboplatin + Pemetrexed,9\
+73,F,Squamous Cell Carcinoma,IIIB,Negative,5,"KRAS, TP53",4,1,4,210,2,Carboplatin + Paclitaxel + Radiation,7\
+59,M,Adenocarcinoma,IV,Positive,6,"EGFR, MET",5.4,1.8,3,280,3,Nivolumab + Carboplatin + Pemetrexed,14\
+66,F,Large Cell Carcinoma,IIIB,Negative,3,"BRAF, RET",3.6,1.2,3,250,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,10\
+45,M,Squamous Cell Carcinoma,IIIA,Positive,2,"TP53, ALK",3.3,1.1,3,190,1,Carboplatin + Paclitaxel + Radiation,8\
+54,F,Adenocarcinoma,IIIB,Negative,7,"EGFR, KRAS",4.9,1.4,3.5,270,2,Carboplatin + Pemetrexed,11\
+78,M,Large Cell Carcinoma,IV,Positive,10,"BRAF, STK11",5.6,1.9,2.95,280,3,Pembrolizumab + Carboplatin + Pemetrexed,20\
+60,F,Squamous Cell Carcinoma,IIIA,Negative,5,"KRAS, RET",3.7,1.2,3.08,240,2,Carboplatin + Paclitaxel + Radiation,10\
+64,M,Adenocarcinoma,IIIB,Positive,4,"EGFR, MET",4.3,1.3,3.31,220,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+71,F,Large Cell Carcinoma,IV,Negative,3,"ALK, ROS1",5,1.5,3.33,250,3,Atezolizumab + Carboplatin + Etoposide,18\
+69,M,Squamous Cell Carcinoma,IIIB,Positive,6,"TP53, STK11",4.8,1.4,3.43,245,2,Carboplatin + Paclitaxel + Bevacizumab,11\
+55,F,Adenocarcinoma,IIIA,Negative,2,"EGFR, ALK",3.1,1,3.1,220,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,9\
+61,M,Large Cell Carcinoma,IV,Positive,4,"BRAF, MET",4.2,1.3,3.23,275,3,Pembrolizumab + Carboplatin + Pemetrexed,15\
+48,F,Squamous Cell Carcinoma,IIIB,Negative,3,"KRAS, TP53",3.4,1,3.4,210,2,Carboplatin + Paclitaxel + Radiation,8\
+67,M,Adenocarcinoma,IIIA,Positive,5,"EGFR, RET",4.6,1.5,3.07,250,1,Carboplatin + Pemetrexed,10\
+72,F,Large Cell Carcinoma,IIIB,Negative,4,"ALK, BRAF",5.3,1.8,2.94,280,2,Nivolumab + Carboplatin + Pemetrexed,16\
+58,M,Squamous Cell Carcinoma,IV,Positive,7,"TP53, ALK",4.9,1.6,3.06,270,3,Carboplatin + Paclitaxel + Radiation,12\
+75,F,Adenocarcinoma,IIIB,Negative,2,"EGFR, BRAF",3.6,1.2,3,250,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,9\
+70,M,Large Cell Carcinoma,IIIA,Positive,6,"BRAF, RET",4,1.3,3.08,245,1,Pembrolizumab + Carboplatin + Pemetrexed,13\
+54,F,Squamous Cell Carcinoma,IIIB,Negative,1,"KRAS, STK11",2.9,1,2.9,220,2,Carboplatin + Paclitaxel + Radiation,6\
+63,M,Adenocarcinoma,IIIB,Positive,4,"EGFR, ALK",4.2,1.3,3.23,230,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+79,F,Squamous Cell Carcinoma,IV,Negative,6,"KRAS, TP53",5.1,1.4,3.64,270,3,Atezolizumab + Carboplatin + Etoposide,18\
+57,M,Large Cell Carcinoma,IIIA,Positive,2,"BRAF, MET",3.5,1.2,2.92,240,2,Carboplatin + Pemetrexed,8\
+50,F,Adenocarcinoma,IIIB,Negative,3,"EGFR, STK11",4.6,1.3,3.54,255,2,Pembrolizumab + Carboplatin + Pemetrexed,11\
+68,M,Squamous Cell Carcinoma,IIIB,Positive,8,"TP53, ALK",5.2,1.6,3.25,290,3,Carboplatin + Paclitaxel + Radiation,10\
+56,F,Adenocarcinoma,IV,Negative,4,"EGFR, MET",4.1,1.1,3.73,225,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+65,M,Large Cell Carcinoma,IIIB,Positive,5,"BRAF, ROS1",4.7,1.2,3.92,285,2,Carboplatin + Pemetrexed,9\
+74,F,Squamous Cell Carcinoma,IIIA,Negative,3,"KRAS, BRAF",4.4,1.5,2.93,240,1,Carboplatin + Paclitaxel + Radiation,10\
+59,M,Adenocarcinoma,IV,Positive,7,"EGFR, RET",5.5,1.7,3.24,270,3,Nivolumab + Carboplatin + Pemetrexed,15\
+77,F,Large Cell Carcinoma,IIIB,Negative,2,"MET, STK11",3.2,1.1,2.91,220,2,Pembrolizumab + Carboplatin + Pemetrexed,8\
+45,M,Adenocarcinoma,IIIA,Positive,4,"EGFR, KRAS",4.3,1.2,3.58,210,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,11\
+61,F,Squamous Cell Carcinoma,IIIB,Negative,3,"TP53, STK11",3.7,1.1,3.36,200,2,Carboplatin + Paclitaxel + Radiation,8\
+52,M,Large Cell Carcinoma,IV,Positive,8,"BRAF, ALK",5.4,1.8,3,275,3,Pembrolizumab + Carboplatin + Pemetrexed,16\
+78,F,Adenocarcinoma,IIIA,Negative,5,"EGFR, ALK",4.8,1.4,3.43,280,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,10\
+66,M,Squamous Cell Carcinoma,IIIB,Positive,2,"KRAS, TP53",3.5,1.2,2.92,210,1,Carboplatin + Paclitaxel + Radiation,7\
+49,F,Adenocarcinoma,IIIB,Negative,6,"EGFR, MET",5.1,1.3,3.92,260,3,Nivolumab + Carboplatin + Pemetrexed,14\
+73,M,Large Cell Carcinoma,IV,Positive,9,"BRAF, RET",6,2,3,295,4,Atezolizumab + Carboplatin + Etoposide,18\
+67,F,Squamous Cell Carcinoma,IIIA,Negative,4,"KRAS, BRAF",4.3,1.1,3.91,220,2,Carboplatin + Paclitaxel + Radiation,9\
+58,M,Adenocarcinoma,IIIB,Positive,3,"EGFR, STK11",4,1.2,3.33,240,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+74,F,Large Cell Carcinoma,IV,Negative,1,"MET, TP53",3.1,1,3.1,230,3,Pembrolizumab + Carboplatin + Pemetrexed,8\
+60,M,Squamous Cell Carcinoma,IIIB,Positive,6,"KRAS, STK11",4.7,1.5,3.13,190,2,Carboplatin + Paclitaxel + Radiation,10\
+69,F,Adenocarcinoma,IV,Negative,2,"EGFR, ROS1",3.9,1.3,3,280,3,Nivolumab + Carboplatin + Pemetrexed,15\
+63,M,Large Cell Carcinoma,IIIA,Positive,7,"BRAF, ALK",5.3,1.8,2.94,250,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,11\
+46,F,Squamous Cell Carcinoma,IIIB,Negative,3,"KRAS, MET",3.2,1,3.2,225,2,Carboplatin + Paclitaxel + Radiation,7\
+72,M,Adenocarcinoma,IIIB,Positive,5,"EGFR, RET",4.6,1.2,3.83,270,2,Carboplatin + Pemetrexed,12\
+57,F,Large Cell Carcinoma,IV,Negative,2,"BRAF, MET",3.8,1.2,3.17,260,3,Pembrolizumab + Carboplatin + Pemetrexed,10\
+50,M,Squamous Cell Carcinoma,IIIB,Positive,8,"TP53, STK11",5.2,1.6,3.25,240,2,Carboplatin + Paclitaxel + Bevacizumab,14\
+79,F,Adenocarcinoma,IIIA,Negative,4,"EGFR, BRAF",4,1.2,3.33,220,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,9\
+66,M,Large Cell Carcinoma,IV,Positive,9,"BRAF, RET",5.1,1.5,3.4,275,3,Atezolizumab + Carboplatin + Etoposide,16\
+55,F,Squamous Cell Carcinoma,IIIA,Negative,1,"KRAS, ALK",3.2,1,3.2,210,2,Carboplatin + Paclitaxel + Radiation,7\
+61,M,Adenocarcinoma,IIIB,Positive,6,"EGFR, MET",4.9,1.4,3.5,290,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,13\
+77,F,Squamous Cell Carcinoma,IV,Negative,3,"KRAS, TP53",3.5,1,3.5,250,3,Nivolumab + Carboplatin + Pemetrexed,8\
+52,M,Adenocarcinoma,IIIA,Positive,4,"ALK, STK11",3.6,1.3,2.77,220,1,Carboplatin + Pemetrexed,10\
+48,F,Large Cell Carcinoma,IIIB,Negative,2,"BRAF, RET",2.9,1,2.9,240,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,6\
+75,M,Squamous Cell Carcinoma,IV,Positive,7,"TP53, MET",4.8,1.5,3.2,280,3,Carboplatin + Paclitaxel + Radiation,14\
+69,F,Adenocarcinoma,IIIB,Negative,5,"EGFR, ROS1",4.5,1.4,3.21,225,2,Pembrolizumab + Carboplatin + Pemetrexed,11\
+73,M,Large Cell Carcinoma,IIIB,Positive,3,"BRAF, ALK",3.7,1.2,3.08,260,2,Cisplatin + Gemcitabine,7\
+64,F,Squamous Cell Carcinoma,IIIB,Negative,1,"KRAS, TP53",3,1,3,210,2,Carboplatin + Paclitaxel + Radiation,8\
+58,M,Adenocarcinoma,IV,Positive,10,"EGFR, BRAF",5.7,1.7,3.35,300,4,Pembrolizumab + Carboplatin + Pemetrexed,18\
+52,M,Adenocarcinoma,IIIA,Positive,4,"EGFR, KRAS",3.2,1.1,2.91,210,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+63,F,Squamous Cell Carcinoma,IIIB,Negative,1,"TP53, MET",2.7,1,2.7,230,2,Carboplatin + Paclitaxel + Radiation,8\
+59,M,Large Cell Carcinoma,IV,Positive,5,"BRAF, ALK",4.9,1.4,3.5,275,3,Pembrolizumab + Carboplatin + Pemetrexed,14\
+66,F,Adenocarcinoma,IIIB,Negative,2,EGFR,3.3,1.1,3,250,2,Carboplatin + Pemetrexed,9\
+74,M,Squamous Cell Carcinoma,IIIA,Positive,6,"KRAS, TP53",4.1,1.5,2.73,200,3,Carboplatin + Paclitaxel + Radiation,11\
+48,F,Large Cell Carcinoma,IV,Negative,8,"BRAF, RET",5.2,2,2.6,300,2,Nivolumab + Carboplatin + Pemetrexed,16\
+57,M,Adenocarcinoma,IIIA,Positive,3,"ALK, KRAS",3.1,1,3.1,210,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+69,F,Squamous Cell Carcinoma,IIIB,Negative,1,TP53,3.8,1.2,3.17,235,2,Carboplatin + Paclitaxel + Radiation,8\
+53,M,Large Cell Carcinoma,IV,Positive,7,"BRAF, MET",4.6,1.6,2.88,290,3,Atezolizumab + Carboplatin + Etoposide,13\
+62,F,Adenocarcinoma,IIIA,Negative,4,"EGFR, RET",3.4,1,3.4,220,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,11\
+49,M,Squamous Cell Carcinoma,IIIB,Positive,9,"KRAS, STK11",5.1,1.8,2.83,260,2,Carboplatin + Paclitaxel + Radiation,10\
+65,F,Large Cell Carcinoma,IV,Negative,3,"BRAF, ROS1",3.7,1.2,3.08,270,3,Nivolumab + Carboplatin + Pemetrexed,15\
+78,M,Adenocarcinoma,IIIA,Positive,6,"EGFR, KRAS",4.2,1.3,3.23,240,2,Carboplatin + Pemetrexed,9\
+60,F,Squamous Cell Carcinoma,IIIA,Negative,2,"TP53, MET",2.9,1,2.9,210,2,Carboplatin + Paclitaxel + Radiation,6\
+46,M,Large Cell Carcinoma,IV,Positive,5,"BRAF, ALK",5.3,1.7,3.12,285,3,Pembrolizumab + Carboplatin + Pemetrexed,14\
+72,F,Adenocarcinoma,IIIB,Negative,8,"ALK, HER2",5.1,1.3,3.92,250,3,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,17\
+64,M,Squamous Cell Carcinoma,IIIA,Positive,4,"TP53, ALK",3.6,1.2,3,220,2,Carboplatin + Paclitaxel + Bevacizumab,8\
+55,F,Large Cell Carcinoma,IIIB,Negative,3,"KRAS, RET",4,1.1,3.64,275,2,Carboplatin + Pemetrexed,10\
+69,M,Adenocarcinoma,IV,Positive,2,"EGFR, MET",3.8,1.4,2.71,290,3,Nivolumab + Carboplatin + Pemetrexed,13\
+75,F,Squamous Cell Carcinoma,IIIB,Negative,5,"TP53, STK11",4.4,1.2,3.67,240,3,Carboplatin + Paclitaxel + Radiation,12\
+58,M,Large Cell Carcinoma,IIIA,Positive,7,"BRAF, ROS1",4.6,1.5,3.07,260,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,14\
+77,F,Adenocarcinoma,IIIB,Negative,1,"EGFR, KRAS",2.8,1,2.8,200,2,Carboplatin + Pemetrexed,7\
+54,M,Squamous Cell Carcinoma,IIIA,Positive,6,"KRAS, TP53",3.5,1.2,2.92,220,2,Carboplatin + Paclitaxel + Radiation,9\
+62,F,Large Cell Carcinoma,IV,Negative,2,"MET, STK11",5.2,1.8,2.89,290,3,Pembrolizumab + Carboplatin + Pemetrexed,15\
+68,M,Adenocarcinoma,IIIB,Positive,4,"EGFR, ALK",3.9,1.3,3,250,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,10\
+47,F,Squamous Cell Carcinoma,IIIB,Negative,1,TP53,3,1,3,210,2,Carboplatin + Paclitaxel + Radiation,6\
+56,M,Large Cell Carcinoma,IV,Positive,9,"BRAF, RET",5.1,2,2.55,280,4,Pembrolizumab + Carboplatin + Pemetrexed,19\
+74,F,Adenocarcinoma,IIIA,Negative,3,"EGFR, MET",3.2,1.1,2.91,220,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,11\
+61,M,Squamous Cell Carcinoma,IIIB,Positive,2,"KRAS, STK11",3.6,1.2,3,245,2,Carboplatin + Paclitaxel + Radiation,8\
+52,F,Large Cell Carcinoma,IV,Negative,5,"BRAF, ALK",4.8,1.3,3.69,275,3,Nivolumab + Carboplatin + Pemetrexed,14\
+70,M,Adenocarcinoma,IIIB,Positive,8,"EGFR, ROS1",4.1,1.3,3.15,265,2,Carboplatin + Pemetrexed,12\
+63,F,Squamous Cell Carcinoma,IIIA,Negative,4,"TP53, MET",3.5,1,3.5,230,2,Carboplatin + Paclitaxel + Radiation,7\
+79,M,Large Cell Carcinoma,IV,Positive,2,"BRAF, STK11",5.4,1.7,3.18,290,3,Pembrolizumab + Carboplatin + Pemetrexed,16\
+53,F,Adenocarcinoma,IIIB,Negative,3,"KRAS, HER2",3.9,1.2,3.25,270,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,10\
+44,M,Squamous Cell Carcinoma,IIIA,Positive,6,"TP53, ALK",3.1,1,3.1,200,1,Carboplatin + Paclitaxel + Radiation,8\
+58,F,Large Cell Carcinoma,IV,Negative,10,"BRAF, ROS1",5.7,1.8,3.17,300,4,Atezolizumab + Carboplatin + Etoposide,20\
+66,M,Adenocarcinoma,IIIB,Positive,1,"EGFR, RET",2.9,1,2.9,210,2,Carboplatin + Pemetrexed,6\
+72,F,Squamous Cell Carcinoma,IIIB,Negative,7,"KRAS, STK11",4.4,1.6,2.75,240,3,Carboplatin + Paclitaxel + Bevacizumab,11\
+59,M,Large Cell Carcinoma,IV,Positive,3,"ALK, MET",4.2,1.2,3.5,285,2,Nivolumab + Carboplatin + Pemetrexed,13\
+47,F,Adenocarcinoma,IIIA,Negative,6,"EGFR, KRAS",3.7,1,3.7,220,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,9\
+78,M,Squamous Cell Carcinoma,IIIB,Positive,2,"TP53, MET",3.2,1.1,2.91,255,2,Carboplatin + Paclitaxel + Radiation,7\
+51,F,Large Cell Carcinoma,IV,Negative,4,"BRAF, RET",4.9,1.7,2.88,290,3,Pembrolizumab + Carboplatin + Pemetrexed,15\
+65,M,Adenocarcinoma,IIIA,Positive,9,"EGFR, ALK",5,1.9,2.63,240,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,14\
+69,F,Squamous Cell Carcinoma,IIIB,Negative,1,"KRAS, TP53",3.1,1,3.1,210,2,Carboplatin + Paclitaxel + Radiation,8\
+60,M,Large Cell Carcinoma,IV,Positive,5,"BRAF, ALK",4.6,1.5,3.07,270,3,Atezolizumab + Carboplatin + Etoposide,16\
+76,F,Adenocarcinoma,IIIA,Negative,2,"EGFR, MET",3.3,1.2,2.75,225,2,Carboplatin + Pemetrexed,9\
+68,M,Squamous Cell Carcinoma,IIIB,Positive,4,"TP53, STK11",3.8,1.3,2.92,240,2,Carboplatin + Paclitaxel + Bevacizumab,8\
+58,F,Large Cell Carcinoma,IV,Negative,8,"KRAS, RET",5.2,1.6,3.25,280,3,Pembrolizumab + Carboplatin + Pemetrexed,17\
+71,M,Adenocarcinoma,IIIB,Positive,1,"EGFR, HER2",2.6,1,2.6,200,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,7\
+63,F,Squamous Cell Carcinoma,IIIB,Negative,5,"KRAS, TP53",4,1.2,3.33,270,2,Carboplatin + Paclitaxel + Radiation,10\
+55,M,Large Cell Carcinoma,IV,Positive,6,"BRAF, MET",4.8,1.8,2.67,295,3,Nivolumab + Carboplatin + Pemetrexed,15\
+52,F,Adenocarcinoma,IIIA,Negative,3,"EGFR, ALK",3.9,1.3,3,210,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,9\
+67,M,Squamous Cell Carcinoma,IIIB,Positive,7,"TP53, RET",5.3,1.7,3.12,240,2,Carboplatin + Paclitaxel + Radiation,12\
+46,F,Large Cell Carcinoma,IV,Negative,4,"MET, STK11",4.1,1.5,2.73,280,3,Pembrolizumab + Carboplatin + Pemetrexed,14\
+79,M,Adenocarcinoma,IIIA,Positive,10,"EGFR, BRAF",5.8,1.9,3.05,270,3,Carboplatin + Pemetrexed,18\
+64,F,Squamous Cell Carcinoma,IIIB,Negative,2,"KRAS, ALK",3.2,1,3.2,215,2,Carboplatin + Paclitaxel + Radiation,8\
+53,M,Large Cell Carcinoma,IV,Positive,5,"BRAF, ROS1",4.7,1.6,2.94,260,3,Atezolizumab + Carboplatin + Etoposide,15\
+77,F,Adenocarcinoma,IIIA,Negative,3,"EGFR, RET",3.6,1.1,3.27,225,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,10\
+66,M,Squamous Cell Carcinoma,IIIB,Positive,1,TP53,2.8,1,2.8,210,2,Carboplatin + Paclitaxel + Radiation,7\
+59,F,Large Cell Carcinoma,IV,Negative,4,"MET, BRAF",4,1.2,3.33,245,3,Nivolumab + Carboplatin + Pemetrexed,13\
+45,M,Adenocarcinoma,IIIA,Positive,9,"EGFR, KRAS",4.9,1.7,2.88,240,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,14\
+61,F,Squamous Cell Carcinoma,IIIB,Negative,2,"KRAS, STK11",3.1,1,3.1,190,2,Carboplatin + Paclitaxel + Bevacizumab,7\
+75,M,Large Cell Carcinoma,IV,Positive,8,"BRAF, RET",5,1.9,2.63,300,4,Pembrolizumab + Carboplatin + Pemetrexed,17\
+70,F,Adenocarcinoma,IIIA,Negative,5,"EGFR, MET",3.4,1.2,2.83,210,2,Carboplatin + Pemetrexed,10\
+57,M,Squamous Cell Carcinoma,IIIB,Positive,6,"TP53, ALK",4.5,1.5,3,280,2,Carboplatin + Paclitaxel + Radiation,9\
+68,F,Large Cell Carcinoma,IV,Negative,3,"KRAS, STK11",5.1,1.8,2.83,270,3,Atezolizumab + Carboplatin + Etoposide,16\
+54,M,Adenocarcinoma,IIIA,Positive,4,"EGFR, ROS1",3.6,1.2,3,220,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,12\
+76,F,Squamous Cell Carcinoma,IIIB,Negative,2,"KRAS, MET",3,1,3,210,3,Carboplatin + Paclitaxel + Radiation,8\
+63,M,Large Cell Carcinoma,IV,Positive,6,"BRAF, RET",4.8,1.4,3.43,285,2,Nivolumab + Carboplatin + Pemetrexed,15\
+55,F,Adenocarcinoma,IIIA,Negative,3,"EGFR, STK11",4.3,1.2,3.58,270,2,Carboplatin + Pemetrexed,10\
+72,M,Squamous Cell Carcinoma,IIIB,Positive,8,"TP53, KRAS",5.5,1.5,3.67,245,3,Carboplatin + Paclitaxel + Radiation,12\
+49,F,Large Cell Carcinoma,IV,Negative,4,"MET, ALK",4.2,1.3,3.23,220,1,Pembrolizumab + Carboplatin + Pemetrexed,13\
+67,M,Adenocarcinoma,IIIA,Positive,1,"EGFR, HER2",2.9,1,2.9,210,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,7\
+58,F,Squamous Cell Carcinoma,IIIB,Negative,5,"KRAS, TP53",3.7,1.2,3.08,240,2,Carboplatin + Paclitaxel + Bevacizumab,9\
+74,M,Large Cell Carcinoma,IV,Positive,3,"BRAF, ROS1",4.9,1.6,3.06,290,3,Atezolizumab + Carboplatin + Etoposide,14\
+60,F,Adenocarcinoma,IIIA,Negative,6,"EGFR, ALK",4.4,1.3,3.38,255,2,Carboplatin + Pemetrexed,11\
+79,M,Squamous Cell Carcinoma,IIIB,Positive,4,"TP53, STK11",3.3,1.1,3,210,3,Carboplatin + Paclitaxel + Radiation,8\
+53,F,Large Cell Carcinoma,IV,Negative,10,"BRAF, MET",5.7,1.8,3.17,280,4,Pembrolizumab + Carboplatin + Pemetrexed,20\
+69,M,Adenocarcinoma,IIIA,Positive,5,"EGFR, RET",3.8,1.4,2.71,240,1,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,10\
+48,F,Squamous Cell Carcinoma,IIIB,Negative,2,"KRAS, ALK",3.1,1,3.1,220,2,Carboplatin + Paclitaxel + Radiation,6\
+66,M,Large Cell Carcinoma,IV,Positive,4,"BRAF, STK11",4.5,1.5,3,270,3,Nivolumab + Carboplatin + Pemetrexed,15\
+51,F,Adenocarcinoma,IIIA,Negative,1,"EGFR, KRAS",2.8,1,2.8,210,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,7\
+59,M,Squamous Cell Carcinoma,IIIB,Positive,7,"TP53, MET",4.1,1.3,3.15,230,2,Carboplatin + Paclitaxel + Radiation,9\
+45,F,Large Cell Carcinoma,IV,Negative,6,"BRAF, ALK",4.7,1.5,3.13,285,3,Atezolizumab + Carboplatin + Etoposide,16\
+63,M,Adenocarcinoma,IIIA,Positive,3,"ALK, ROS1",3.4,1.2,2.83,210,1,Carboplatin + Pemetrexed,8\
+77,F,Squamous Cell Carcinoma,IIIB,Negative,5,"KRAS, RET",4.2,1.3,3.23,275,3,Carboplatin + Paclitaxel + Radiation,11\
+54,M,Large Cell Carcinoma,IV,Positive,8,"BRAF, MET",5.1,1.9,2.68,260,3,Pembrolizumab + Carboplatin + Pemetrexed,17\
+71,F,Adenocarcinoma,IIIA,Negative,2,"EGFR, TP53",3,1,3,220,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,9\
+65,M,Squamous Cell Carcinoma,IIIB,Positive,4,"TP53, ALK",3.6,1.2,3,200,2,Carboplatin + Paclitaxel + Radiation,8\
+78,F,Large Cell Carcinoma,IV,Negative,1,"KRAS, STK11",2.6,0.9,2.89,255,3,Nivolumab + Carboplatin + Pemetrexed,7\
+64,M,Adenocarcinoma,IIIB,Positive,10,"EGFR, MET",5.5,1.8,3.06,290,3,Carboplatin + Pemetrexed,18\
+57,F,Squamous Cell Carcinoma,IIIA,Negative,2,TP53,3.2,1.1,2.91,210,2,Carboplatin + Paclitaxel + Radiation,8\
+46,M,Large Cell Carcinoma,IV,Positive,5,"BRAF, RET",4.9,1.4,3.5,270,3,Pembrolizumab + Carboplatin + Pemetrexed,13\
+73,F,Adenocarcinoma,IIIB,Negative,9,"ALK, KRAS",5.2,1.7,3.06,240,3,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,16\
+52,M,Squamous Cell Carcinoma,IIIA,Positive,3,"TP53, STK11",3.3,1,3.3,220,1,Carboplatin + Paclitaxel + Radiation,7\
+66,F,Large Cell Carcinoma,IV,Negative,6,"KRAS, ROS1",4.7,1.5,3.13,295,2,Nivolumab + Carboplatin + Pemetrexed,14\
+60,M,Adenocarcinoma,IIIB,Positive,2,"EGFR, BRAF",2.9,1,2.9,210,2,Carboplatin + Pemetrexed,6\
+79,F,Squamous Cell Carcinoma,IIIB,Negative,4,"TP53, MET",3.9,1.3,3,240,3,Carboplatin + Paclitaxel + Radiation,10\
+44,M,Large Cell Carcinoma,IV,Positive,7,"BRAF, STK11",5.3,1.8,2.94,280,3,Pembrolizumab + Carboplatin + Pemetrexed,15\
+62,F,Adenocarcinoma,IIIA,Negative,1,"EGFR, RET",2.8,1,2.8,220,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,7\
+68,M,Squamous Cell Carcinoma,IIIB,Positive,4,"KRAS, TP53",3.4,1.1,3.09,230,2,Carboplatin + Paclitaxel + Bevacizumab,8\
+56,F,Large Cell Carcinoma,IV,Negative,3,"ALK, ROS1",4.5,1.6,2.81,245,3,Nivolumab + Carboplatin + Pemetrexed,14\
+75,M,Adenocarcinoma,IIIA,Positive,8,"EGFR, HER2",5.4,1.8,3,295,3,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,17\
+63,F,Squamous Cell Carcinoma,IIIB,Negative,2,TP53,3.2,1,3.2,210,2,Carboplatin + Paclitaxel + Radiation,8\
+47,M,Large Cell Carcinoma,IV,Positive,6,"BRAF, RET",4.8,1.5,3.2,290,3,Pembrolizumab + Carboplatin + Pemetrexed,12\
+69,F,Adenocarcinoma,IIIA,Negative,5,"EGFR, STK11",3.6,1.2,3,255,2,Carboplatin + Pemetrexed,9\
+52,M,Squamous Cell Carcinoma,IIIB,Positive,4,"TP53, MET",4,1.2,3.33,270,2,Carboplatin + Paclitaxel + Radiation,8\
+78,F,Large Cell Carcinoma,IV,Negative,6,"KRAS, ALK",5.6,1.8,3.11,300,4,Atezolizumab + Carboplatin + Etoposide,18\
+66,M,Adenocarcinoma,IIIA,Positive,3,"EGFR, BRAF",3.5,1.2,2.92,240,2,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,10\
+49,F,Squamous Cell Carcinoma,IIIB,Negative,7,"KRAS, TP53",4.3,1.5,2.87,220,2,Carboplatin + Paclitaxel + Radiation,9\
+61,M,Large Cell Carcinoma,IV,Positive,8,"BRAF, ROS1",5.2,1.7,3.06,290,3,Pembrolizumab + Carboplatin + Pemetrexed,15\
+75,F,Adenocarcinoma,IIIB,Negative,5,"EGFR, ALK",4,1.3,3.08,270,3,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,11\
+64,M,Squamous Cell Carcinoma,IIIB,Positive,2,"KRAS, STK11",3.1,1,3.1,200,1,Carboplatin + Paclitaxel + Radiation,7\
+73,F,Large Cell Carcinoma,IV,Negative,1,"MET, RET",2.7,0.9,3,220,3,Nivolumab + Carboplatin + Pemetrexed,6\
+59,M,Adenocarcinoma,IIIA,Positive,6,"EGFR, KRAS",4.2,1.4,3,265,2,Carboplatin + Pemetrexed,10\
+67,F,Squamous Cell Carcinoma,IIIB,Negative,2,"TP53, MET",3.4,1,3.4,210,2,Carboplatin + Paclitaxel + Radiation,8\
+51,M,Large Cell Carcinoma,IV,Positive,4,"BRAF, STK11",4.5,1.3,3.46,290,3,Pembrolizumab + Carboplatin + Pemetrexed,14\
+76,F,Adenocarcinoma,IIIA,Negative,7,"EGFR, ROS1",5.1,1.7,3,280,3,Carboplatin + Pemetrexed + Radiation followed by Durvalumab,16\
+46,M,Squamous Cell Carcinoma,IIIB,Positive,5,"TP53, ALK",3.9,1.2,3.25,230,2,Carboplatin + Paclitaxel + Radiation,9\
+70,F,Large Cell Carcinoma,IV,Negative,10,"KRAS, STK11",5.7,1.9,3,300,4,Nivolumab + Carboplatin + Pemetrexed,20\
+55,M,Adenocarcinoma,IIIA,Positive,2,"EGFR, MET",3.2,1.1,2.91,220,2,Carboplatin + Pemetrexed,8\
+72,F,Squamous Cell Carcinoma,IIIB,Negative,3,"KRAS, TP53",3.6,1.2,3,245,2,Carboplatin + Paclitaxel + Radiation,9\
+60,M,Large Cell Carcinoma,IV,Positive,4,"BRAF, RET",4,1.3,3.08,270,3,Atezolizumab + Carboplatin + Etoposide,13\
+\,,,,,,,,,,,,,
+\,,,,,,,,,,,,,
+},,,,,,,,,,,,,
